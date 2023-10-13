@@ -1,0 +1,8 @@
+create_field 10 10
+move_cursor 3 -2
+create_hill 0.3 0.2 0.2 0.5 5
+set_cursor 2 2 
+create_stone 0.5
+move_cursor 5 4
+create_log 1
+print_field 1.txt
